@@ -1,0 +1,112 @@
+movement
+Point(x=1341, y=173)
+Point(x=1551, y=235)
+Point(x=1161, y=159)
+Point(x=885, y=158)
+harvest
+Point(x=1078, y=177)
+Point(x=884, y=265)
+Point(x=842, y=415)
+Point(x=856, y=592)
+Point(x=673, y=715)
+Point(x=956, y=703)
+Point(x=1133, y=792)
+Point(x=1108, y=510)
+Point(x=1078, y=606)
+Point(x=1747, y=533)
+Point(x=975, y=598)
+Point(x=818, y=711)
+Point(x=1029, y=751)
+Point(x=1152, y=505)
+Point(x=1263, y=401)
+Point(x=963, y=799)
+Point(x=1115, y=498)
+Point(x=1246, y=400)
+Point(x=1011, y=841)
+Point(x=1137, y=499)
+Point(x=1262, y=414)
+Point(x=1255, y=561)
+Point(x=981, y=635)
+Point(x=784, y=739)
+Point(x=1038, y=730)
+Point(x=1163, y=506)
+Point(x=1256, y=404)
+movement
+Point(x=97, y=388)
+Point(x=403, y=894)
+Point(x=396, y=910)
+Point(x=397, y=873)
+Point(x=421, y=760)
+
+delay = x1 * x2 * 0.04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mouse click 1040, 399
+time 21:43:32.012905
+mouse click 938, 414
+time 21:43:33.489605
+mouse click 915, 428
+time 21:43:34.600038
+mouse click 862, 491
+time 21:43:35.762941
+mouse click 889, 566
+time 21:43:36.940232
+mouse click 1033, 695
+time 21:43:38.266958
+mouse click 1061, 498
+time 21:43:40.141725
+mouse click 1044, 412
+time 21:43:41.088405
+mouse click 844, 370
+time 21:43:42.310483
+mouse click 879, 544
+time 21:43:43.839588
+mouse click 849, 554
+time 21:43:45.046912
+mouse click 1039, 570
+time 21:43:46.240024
+mouse click 1115, 472
+time 21:43:47.477315
+mouse click 1069, 390
+time 21:43:48.782587
+mouse click 867, 402
+time 21:43:50.200028
+
+
+Click 1 và Click 2: 1.4767 giây 102 14.38235294117647
+Click 2 và Click 3: 1.110433 giây 23 48,279
+Click 3 và Click 4: 1.162903 giây 53
+Click 4 và Click 5: 1.172291 giây 27
+Click 5 và Click 6: 1.225726 giây 144
+Click 6 và Click 7: 1.326726 giây 28
+Click 7 và Click 8: 1.874767 giây 17 
+Click 8 và Click 9: 0.94668 giây 200
+Click 9 và Click 10: 1.222078 giây 35
+Click 10 và Click 11: 1.209325 giây  30
+Click 11 và Click 12: 1.193112 giây 190
+Click 12 và Click 13: 1.237112 giây 76
+Click 13 và Click 14: 1.237291 giây 46 
+
+
+
+
+
+
+
+
+
+
+
